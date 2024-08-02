@@ -1,4 +1,4 @@
-module https://github.com/erkindilekci/go-blog
+module github.com/erkindilekci/go-blog
 
 go 1.22
 
